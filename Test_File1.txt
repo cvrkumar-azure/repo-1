@@ -1,4 +1,0 @@
-Test_File1
-
-This is a Test_File1
-Saving into GIT folder
